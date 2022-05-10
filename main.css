@@ -1,0 +1,78 @@
+body {
+	margin-right:15px;
+	margin-left: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: white;
+}
+
+img {
+	max-width: 100%;
+}
+
+.story-top {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: 0px;
+	font-family: Montserrat, san serif;
+
+}
+
+.lead-image {
+	margin-right: 15px;
+	margin-left: 15px;
+	max-width: 100%;
+}
+
+.caption {
+	font-size: 12px;
+	color: #46494C;
+	font-family: Time New Roman, san serif;
+	line-height: 20pt;
+	max-width: 800px;
+
+}
+
+.story-text-crime {
+	font-size: 16px;
+	font-family: Georgia, san serif;
+
+}
+
+.article {
+	background-color: #E8F1F2
+	margin: 60px;
+	max-width: 95%;
+	border: 1px;
+
+}
+
+h2 {
+	font-size: 32px;
+	margin-bottom: 20px;
+	text-align: left;
+}
+.byline {
+	font-size: 14px;
+	font-weight: bold;
+	color: #46494C;
+	margin-left: 0px;
+}
+
+.timestamp {
+	font-size: 12px;
+	color: #46494C;
+}
+
+.First-iFrame {
+	max-width: 100%;
+	margin: auto;
+}
+
+.Second-iFrame {
+	max-width: 95%;
+}
+
+.Third-iFrame {
+	max-width: 95%;
+}
